@@ -1,4 +1,4 @@
-# eLekar
+# DialogFlow
 
 The eLekar mobile application allows you to schedule an appointment with the selected doctor, cancel them, as well as send a message to the doctor. It also has a built-in bot that can provide basic information about the infectious disease COVID-19. To log in to the application, you need to enter your LBO and BZK and then log in via email or phone number.
 
